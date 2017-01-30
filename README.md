@@ -1,6 +1,6 @@
-# Responsive Single Page Design with PostCSS
+# PostCSS Based Workflow / Responsive Single Page Design
 
-[![Responsive Single Page Design with PostCSS](ih-willow-tree.jpg)](http://integrityhouse.org)
+[![PostCSS with Responsive Single Page Design](ih-willow-tree.jpg)](http://integrityhouse.org)
 
 This is the repository for my course: Responsive Single Page Design with PostCSS. The full course is at [lynda.com](http://lynda.com) soon.
 
