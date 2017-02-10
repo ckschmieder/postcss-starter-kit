@@ -1,13 +1,14 @@
 @import "variables";
-@import "base";
-@import "mixins";
+@import "global";
+/*@import "mixins";*/
+@import "app";
 
 @import "modules/header";
 @import "modules/navigation";
 @import "modules/footer";
-@import "modules/section";
+/*@import "modules/section";*/
 
-@import "sections/history";
-@import "sections/products";
-@import "sections/guarantee";
-@import "sections/people";
+/*@import "sections/history";*/
+/*@import "sections/products";*/
+/*@import "sections/guarantee";*/
+/*@import "sections/people";*/
