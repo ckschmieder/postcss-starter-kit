@@ -5,7 +5,6 @@ var gulp = require('gulp'),
   autoprefixer = require('autoprefixer'),
   precss = require('precss'),
   cssnano = require('cssnano'),
-  animation = require('postcss-animation'),
 
   source = 'process/css/',
   dest = 'builds/postcss/';
@@ -18,7 +17,6 @@ gulp.task('css', function() {
   gulp.src(source + 'style.css')
   .pipe(postcss([
     precss(),
-    animation(),
     autoprefixer(),
     cssnano()
   ]))
